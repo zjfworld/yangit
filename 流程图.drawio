@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-26T08:15:48.059Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="WFda8s_rrk01krN7Vh75" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-26T08:15:58.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="c-0WrBhaKlKQMa4OslQ6" version="23.0.2" type="github">
   <diagram name="第 1 页" id="iy5L7cvPKMk64nNim1CG">
     <mxGraphModel dx="1434" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="300" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YPu-V1tJ_W18TCsgV1Ht-2" value="选择任何一种支付方式&lt;br&gt;（花呗分期、微信支付、欢太分期、支付宝、花呗、京东白条）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="170" y="140" width="360" height="100" as="geometry" />
+          <mxGeometry x="170" y="140" width="360" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
